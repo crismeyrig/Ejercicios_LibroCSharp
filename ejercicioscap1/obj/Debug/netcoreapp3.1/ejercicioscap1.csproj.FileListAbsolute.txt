@@ -1,0 +1,26 @@
+C:\Users\Crismeyri\source\repos\ejercicioscap1\bin\Debug\netcoreapp3.1\ejercicioscap1.exe
+C:\Users\Crismeyri\source\repos\ejercicioscap1\bin\Debug\netcoreapp3.1\ejercicioscap1.deps.json
+C:\Users\Crismeyri\source\repos\ejercicioscap1\bin\Debug\netcoreapp3.1\ejercicioscap1.runtimeconfig.json
+C:\Users\Crismeyri\source\repos\ejercicioscap1\bin\Debug\netcoreapp3.1\ejercicioscap1.runtimeconfig.dev.json
+C:\Users\Crismeyri\source\repos\ejercicioscap1\bin\Debug\netcoreapp3.1\ejercicioscap1.dll
+C:\Users\Crismeyri\source\repos\ejercicioscap1\bin\Debug\netcoreapp3.1\ejercicioscap1.pdb
+C:\Users\Crismeyri\source\repos\ejercicioscap1\obj\Debug\netcoreapp3.1\ejercicioscap1.csprojAssemblyReference.cache
+C:\Users\Crismeyri\source\repos\ejercicioscap1\obj\Debug\netcoreapp3.1\ejercicioscap1.AssemblyInfoInputs.cache
+C:\Users\Crismeyri\source\repos\ejercicioscap1\obj\Debug\netcoreapp3.1\ejercicioscap1.AssemblyInfo.cs
+C:\Users\Crismeyri\source\repos\ejercicioscap1\obj\Debug\netcoreapp3.1\ejercicioscap1.csproj.CoreCompileInputs.cache
+C:\Users\Crismeyri\source\repos\ejercicioscap1\obj\Debug\netcoreapp3.1\ejercicioscap1.dll
+C:\Users\Crismeyri\source\repos\ejercicioscap1\obj\Debug\netcoreapp3.1\ejercicioscap1.pdb
+C:\Users\Crismeyri\source\repos\ejercicioscap1\obj\Debug\netcoreapp3.1\ejercicioscap1.genruntimeconfig.cache
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ejercicioscap1\bin\Debug\netcoreapp3.1\ejercicioscap1.exe
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ejercicioscap1\bin\Debug\netcoreapp3.1\ejercicioscap1.deps.json
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ejercicioscap1\bin\Debug\netcoreapp3.1\ejercicioscap1.runtimeconfig.json
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ejercicioscap1\bin\Debug\netcoreapp3.1\ejercicioscap1.runtimeconfig.dev.json
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ejercicioscap1\bin\Debug\netcoreapp3.1\ejercicioscap1.dll
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ejercicioscap1\bin\Debug\netcoreapp3.1\ejercicioscap1.pdb
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ejercicioscap1\obj\Debug\netcoreapp3.1\ejercicioscap1.csprojAssemblyReference.cache
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ejercicioscap1\obj\Debug\netcoreapp3.1\ejercicioscap1.AssemblyInfoInputs.cache
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ejercicioscap1\obj\Debug\netcoreapp3.1\ejercicioscap1.AssemblyInfo.cs
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ejercicioscap1\obj\Debug\netcoreapp3.1\ejercicioscap1.csproj.CoreCompileInputs.cache
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ejercicioscap1\obj\Debug\netcoreapp3.1\ejercicioscap1.dll
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ejercicioscap1\obj\Debug\netcoreapp3.1\ejercicioscap1.pdb
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ejercicioscap1\obj\Debug\netcoreapp3.1\ejercicioscap1.genruntimeconfig.cache

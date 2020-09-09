@@ -1,0 +1,13 @@
+C:\Users\Crismeyri\source\repos\capitulo 1-3\numeroparoimpar\bin\Debug\netcoreapp3.1\numeroparoimpar.exe
+C:\Users\Crismeyri\source\repos\capitulo 1-3\numeroparoimpar\bin\Debug\netcoreapp3.1\numeroparoimpar.deps.json
+C:\Users\Crismeyri\source\repos\capitulo 1-3\numeroparoimpar\bin\Debug\netcoreapp3.1\numeroparoimpar.runtimeconfig.json
+C:\Users\Crismeyri\source\repos\capitulo 1-3\numeroparoimpar\bin\Debug\netcoreapp3.1\numeroparoimpar.runtimeconfig.dev.json
+C:\Users\Crismeyri\source\repos\capitulo 1-3\numeroparoimpar\bin\Debug\netcoreapp3.1\numeroparoimpar.dll
+C:\Users\Crismeyri\source\repos\capitulo 1-3\numeroparoimpar\bin\Debug\netcoreapp3.1\numeroparoimpar.pdb
+C:\Users\Crismeyri\source\repos\capitulo 1-3\numeroparoimpar\obj\Debug\netcoreapp3.1\numeroparoimpar.csprojAssemblyReference.cache
+C:\Users\Crismeyri\source\repos\capitulo 1-3\numeroparoimpar\obj\Debug\netcoreapp3.1\numeroparoimpar.AssemblyInfoInputs.cache
+C:\Users\Crismeyri\source\repos\capitulo 1-3\numeroparoimpar\obj\Debug\netcoreapp3.1\numeroparoimpar.AssemblyInfo.cs
+C:\Users\Crismeyri\source\repos\capitulo 1-3\numeroparoimpar\obj\Debug\netcoreapp3.1\numeroparoimpar.csproj.CoreCompileInputs.cache
+C:\Users\Crismeyri\source\repos\capitulo 1-3\numeroparoimpar\obj\Debug\netcoreapp3.1\numeroparoimpar.dll
+C:\Users\Crismeyri\source\repos\capitulo 1-3\numeroparoimpar\obj\Debug\netcoreapp3.1\numeroparoimpar.pdb
+C:\Users\Crismeyri\source\repos\capitulo 1-3\numeroparoimpar\obj\Debug\netcoreapp3.1\numeroparoimpar.genruntimeconfig.cache

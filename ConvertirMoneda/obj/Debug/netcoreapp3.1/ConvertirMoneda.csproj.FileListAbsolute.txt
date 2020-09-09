@@ -1,0 +1,13 @@
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ConvertirMoneda\obj\Debug\netcoreapp3.1\ConvertirMoneda.csprojAssemblyReference.cache
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ConvertirMoneda\obj\Debug\netcoreapp3.1\ConvertirMoneda.AssemblyInfoInputs.cache
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ConvertirMoneda\obj\Debug\netcoreapp3.1\ConvertirMoneda.AssemblyInfo.cs
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ConvertirMoneda\obj\Debug\netcoreapp3.1\ConvertirMoneda.csproj.CoreCompileInputs.cache
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ConvertirMoneda\bin\Debug\netcoreapp3.1\ConvertirMoneda.exe
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ConvertirMoneda\bin\Debug\netcoreapp3.1\ConvertirMoneda.deps.json
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ConvertirMoneda\bin\Debug\netcoreapp3.1\ConvertirMoneda.runtimeconfig.json
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ConvertirMoneda\bin\Debug\netcoreapp3.1\ConvertirMoneda.runtimeconfig.dev.json
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ConvertirMoneda\bin\Debug\netcoreapp3.1\ConvertirMoneda.dll
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ConvertirMoneda\bin\Debug\netcoreapp3.1\ConvertirMoneda.pdb
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ConvertirMoneda\obj\Debug\netcoreapp3.1\ConvertirMoneda.dll
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ConvertirMoneda\obj\Debug\netcoreapp3.1\ConvertirMoneda.pdb
+C:\Users\Crismeyri\source\repos\capitulo 1-3\ConvertirMoneda\obj\Debug\netcoreapp3.1\ConvertirMoneda.genruntimeconfig.cache

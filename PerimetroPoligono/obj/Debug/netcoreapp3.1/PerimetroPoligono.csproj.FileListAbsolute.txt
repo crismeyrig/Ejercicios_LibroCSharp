@@ -1,0 +1,13 @@
+C:\Users\Crismeyri\source\repos\PerimetroPoligono\bin\Debug\netcoreapp3.1\PerimetroPoligono.exe
+C:\Users\Crismeyri\source\repos\PerimetroPoligono\bin\Debug\netcoreapp3.1\PerimetroPoligono.deps.json
+C:\Users\Crismeyri\source\repos\PerimetroPoligono\bin\Debug\netcoreapp3.1\PerimetroPoligono.runtimeconfig.json
+C:\Users\Crismeyri\source\repos\PerimetroPoligono\bin\Debug\netcoreapp3.1\PerimetroPoligono.runtimeconfig.dev.json
+C:\Users\Crismeyri\source\repos\PerimetroPoligono\bin\Debug\netcoreapp3.1\PerimetroPoligono.dll
+C:\Users\Crismeyri\source\repos\PerimetroPoligono\bin\Debug\netcoreapp3.1\PerimetroPoligono.pdb
+C:\Users\Crismeyri\source\repos\PerimetroPoligono\obj\Debug\netcoreapp3.1\PerimetroPoligono.csprojAssemblyReference.cache
+C:\Users\Crismeyri\source\repos\PerimetroPoligono\obj\Debug\netcoreapp3.1\PerimetroPoligono.AssemblyInfoInputs.cache
+C:\Users\Crismeyri\source\repos\PerimetroPoligono\obj\Debug\netcoreapp3.1\PerimetroPoligono.AssemblyInfo.cs
+C:\Users\Crismeyri\source\repos\PerimetroPoligono\obj\Debug\netcoreapp3.1\PerimetroPoligono.csproj.CoreCompileInputs.cache
+C:\Users\Crismeyri\source\repos\PerimetroPoligono\obj\Debug\netcoreapp3.1\PerimetroPoligono.dll
+C:\Users\Crismeyri\source\repos\PerimetroPoligono\obj\Debug\netcoreapp3.1\PerimetroPoligono.pdb
+C:\Users\Crismeyri\source\repos\PerimetroPoligono\obj\Debug\netcoreapp3.1\PerimetroPoligono.genruntimeconfig.cache
